@@ -50,5 +50,5 @@ OUTPUT:
 Positive: [11, 12, 13, 14, 15, 16, 5, 17, 18, 19, 20, 15, 21, 22]
 Negative: [11, 12, 13, 14, 15, 16, 5, 17, 22, 19, 20, 15, 21, 18]
 
-Much better, now we are keeping track of the order of words and we can tell where each occurs.
+Much better, now we are keeping track of the order of words and we can tell where each occurs!
 '''
